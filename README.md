@@ -1,1 +1,1 @@
-# gitkill
+# gitskill
